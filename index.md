@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1: Fraud Detection project
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more. Companies can incorporate fraud detection into their websites, company policies, employee training, and enhanced security features. The most effective companies combat fraud by using a multifaceted approach that integrates several of these techniques.
+![Octocat](https://github.githubassets.com/images/icons/emoji/fraudDetection2.jfif)
 
 ## Header 2
 
