@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1: Fraud Detection project
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more. Companies can incorporate fraud detection into their websites, company policies, employee training, and enhanced security features. The most effective companies combat fraud by using a multifaceted approach that integrates several of these techniques.
+
 ![Octocat](/assets/img/fraudDetection2.jfif)
 
 ## Header 2
